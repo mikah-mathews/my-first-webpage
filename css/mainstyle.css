@@ -47,10 +47,17 @@ ul {
     line-height: 30px;
     text-align: center;
     list-style-position: inside;
+    color: white;
 }
 
 p {
     color: white;
+}
+
+a {
+    color:white;
+    text-align: center;
+    list-style-position: inside;
 }
 
 
