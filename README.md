@@ -6,7 +6,7 @@
 
 ## Description
 
-_These are two HTML files containing links to different websites. my-first-website.html is about Mikah Mathews and their interests. my-favorite-things.html is about a fictional family. _
+_These are two HTML files containing links to different websites. my-first-website.html is about Mikah Mathews and their interests. my-favorite-things.html is about a fictional family._
 
 ## Setup/Installation Requirements
 
@@ -18,7 +18,7 @@ _These are two HTML files containing links to different websites. my-first-websi
 
 ## Known Bugs
 
-_There are no known bugs. _
+_There are no known bugs._
 
 ## Support and contact details
 
